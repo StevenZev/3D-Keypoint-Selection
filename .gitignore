@@ -10,6 +10,8 @@ test.ipynb
 knees.json
 scans_1/
 scans*/
+*.csv
+csv2json.ipynb
 
 
 # Template Below
