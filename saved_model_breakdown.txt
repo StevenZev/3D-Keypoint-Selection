@@ -1,0 +1,10 @@
+1. Early 2-point selector
+2. (Less) Early 2-point selector
+3. Early 5-point selector
+4. Relative 2-point selector (mistakenly set for 5 points)
+5. Relative 5-point selector **Best Model**
+6. Relative 5-point selector w/ Angular Loss and Symmetric Dataset
+7. Copy of Model 5, Resumed Training @ Epoch 46 with Symmetric Dataset; Loss 5.11 >
+8.
+9.
+10.
